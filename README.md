@@ -12,3 +12,7 @@ Some text
 ## Subheading 2
 
 Woof.
+
+# Credits
+
+Mr Linus Cat is the cutest
