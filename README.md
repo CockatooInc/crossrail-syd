@@ -9,8 +9,6 @@ Some text
 
 -- Important Person, 2015
 
-# Heading 2
-
 ## Subheading 2
 
 Woof.
